@@ -1,0 +1,48 @@
+{
+    "eyeglass_frame_materials": {
+        "metal": [
+            {
+                "frame_material": "Stainless Steel",
+                "stock": 50,
+                "price": 2000
+            },
+            {
+                "frame_material": "Titanium",
+                "stock": 50,
+                "price": 5000
+            },
+            {
+                "frame_material": "Memory Metal (Flexon)",
+                "stock": 50,
+                "price": 6000
+            },
+            {
+                "frame_material": "Aluminum",
+                "stock": 50,
+                "price": 3000
+            },
+            {
+                "frame_material": "Monel",
+                "stock": 50,
+                "price": 1500
+            }
+        ],
+        "plastic": [
+            {
+                "frame_material": "Acetate (Cellulose Acetate)",
+                "stock": 50,
+                "price": 2500
+            },
+            {
+                "frame_material": "TR-90",
+                "stock": 50,
+                "price": 1800
+            },
+            {
+                "frame_material": "Nylon",
+                "stock": 50,
+                "price": 2000
+            }
+        ]
+    }
+}
